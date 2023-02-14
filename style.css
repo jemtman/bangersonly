@@ -84,3 +84,19 @@ body {
             opacity: 1;
 	}
 }
+
+.screed{
+    padding:20px;
+    vertical-align: top;
+    background-color: #FFFFFFAA;
+}
+
+.highlight{
+    background-color: #FFFF0099;
+    font-style: italic;
+}
+
+.highlight_other{
+    background-color: #f7a61099;
+    font-style: italic;
+}
